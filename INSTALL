@@ -1,0 +1,12 @@
+////////////////////////
+
+Installation steps for Little Red are as below:
+
+1.download the tar package.
+
+2.unpack and run:
+
+./configure
+./make
+./make install
+
